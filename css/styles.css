@@ -480,6 +480,10 @@ img {
   margin-right: 120px;
 }
 
+.footer-soc{
+  margin-right: 80px;
+}
+
 .footer-soc-text {
   font-weight: 500;
   font-size: 16px;
@@ -525,15 +529,11 @@ img {
 .footer-form {
   height: 80px;
   display: flex;
-  align-items: flex-end;
   gap: 24px;
 }
 
-.footer-form-label {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  font-style: normal;
+.form-title {
+  margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
